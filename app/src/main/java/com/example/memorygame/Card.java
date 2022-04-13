@@ -13,7 +13,7 @@ public class Card {
         this.title = title;
     }
     public String getTitle() {
-        return title;
+        return back;
     }
     public Drawable getBack() {
         return back;
