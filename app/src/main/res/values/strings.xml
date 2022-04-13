@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">MemoryGame</string>
-    <string name="Easy">Easy</string>
-    <string name="Medium">Medium</string>
-    <string name="Hard">Hard</string>
-</resources>
